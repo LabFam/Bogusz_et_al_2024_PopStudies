@@ -12,3 +12,6 @@ Hall, Anja, and Michael Tiemann. (2021). BIBBBIBB/BAuA-Erwerbstätigenbefragung 
 Hall, Anja, Lena Hünefeld, and Daniela Rohrbach-Schmidt. (2020a). BIBBBIBB/BAuA-Erwerbstätigenbefragung [BIBB Employment Survey] 2018 – Arbeit und Beruf im Wandel. Erwerb und Verwertung beruflicher Qualifikationen. SUF_1.0; Forschungsdatenzentrum im BIBBBIBB (Hrsg.); GESIS Köln (Datenzugang); Bonn: Bundesinstitut für Berufsbildung. https://doi.org/10.7803/501.18.1.1.10
 
 Hall, Anja, Anke Siefer, and Michael Tiemann. (2020b). BIBBBIBB/BAuA-Erwerbstätigenbefragung [BIBB Employment Survey] 2012 – Arbeit und Beruf im Wandel. Erwerb und Verwertung beruflicher Qualifikationen. SUF_6.0; Forschungsdatenzentrum im BIBBBIBB (Hrsg.); GESIS Köln (Datenzugang); Bonn: Bundesinstitut für Berufsbildung. https://doi.org/10.7803/501.12.1.1.60
+
+The structure of the files in this folder should look like this:
+![Screenshot from 2024-06-28 11-58-22](https://github.com/LabFam/Bogusz_et_al_2024_PopStudies/assets/56295276/f0260c4e-e73a-44ac-9b20-aee2fa71c609)
