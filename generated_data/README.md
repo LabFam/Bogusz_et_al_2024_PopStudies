@@ -1,8 +1,8 @@
 After running all scripts from 'codes', this folder should contain the following datafiles:
 
-bibb1979_har.dta; \           
-bibb1986_har.dta; \         
-bibb1992_har.dta; \         
+bibb1979_har.dta;\           
+bibb1986_har.dta;\         
+bibb1992_har.dta;\         
 bibb1999_har.dta;\         
 bibb2006_har.dta;\         
 bibb2012_har.dta;\         
