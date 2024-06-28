@@ -6,7 +6,6 @@ Bundesinstitut für Berufsbildung (BIBB), Berlin, & Institut für Arbeitsmarkt- 
 
 Bundesinstitut für Berufsbildungsforschung (BIBB), Berlin, & Institut für Arbeitsmarkt- und Berufsforschung (IAB) der Bundesanstalt für Arbeit, Nürnberg. (1983). Qualifikation und Berufsverlauf [BIBB Employment Survey] 1979. In: GESIS Datenarchiv, Köln. ZA1243 Datenfile Version 1.0.0, https://doi.org/10.4232/1.1243.
 
-
 Hall, Anja, and Michael Tiemann. (2021). BIBBBIBB/BAuA-Erwerbstätigenbefragung [BIBB Employment Survey] 2006 – Arbeit und Beruf im Wandel. Erwerb und Verwertung beruflicher Qualifikationen. SUF_3.0; Forschungsdatenzentrum im BIBBBIBB (Hrsg.); GESIS Köln, (Datenzugang); Bonn: Bundesinstitut für Berufsbildung. https://doi.org/10.7803/501.06.1.1.30
 
 Hall, Anja, Lena Hünefeld, and Daniela Rohrbach-Schmidt. (2020a). BIBBBIBB/BAuA-Erwerbstätigenbefragung [BIBB Employment Survey] 2018 – Arbeit und Beruf im Wandel. Erwerb und Verwertung beruflicher Qualifikationen. SUF_1.0; Forschungsdatenzentrum im BIBBBIBB (Hrsg.); GESIS Köln (Datenzugang); Bonn: Bundesinstitut für Berufsbildung. https://doi.org/10.7803/501.18.1.1.10
