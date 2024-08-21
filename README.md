@@ -1,7 +1,7 @@
 # Bogusz_et_al_2024_PopStudies
 
 This repository contains codes used to create the analysis for the paper:
-Bogusz, H., Matysiak, A., & Kreyenfeld, M. (2024). Structural Labour Market Change, Cognitive Work, and Fertility in Germany. *Population Studies*, forthcoming. https://doi.org/10.1080/00324728.2024.2365111
+Bogusz, H., Matysiak, A., & Kreyenfeld, M. (2024). Structural labour market change, cognitive work, and entry to parenthood in Germany. *Population Studies*, 1-27. [https://doi.org/10.1080/00324728.2024.2365111](https://doi.org/10.1080/00324728.2024.2372018)
 
 It contains the following folders: 
 
